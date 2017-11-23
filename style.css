@@ -1,0 +1,135 @@
+h1{
+	color:brown;
+	text-align:center;
+	font-size:55pt;
+}
+p{
+	color:green;
+    text-align:left;
+    font-size:30pt;
+
+}
+li{
+	color:blue;
+	font-size:25pt;
+}
+body{
+	
+		background-image:url(snow.jpg);
+}
+i{
+	font-family: Monotype Corsiva;
+	color: #333;
+}
+.details h1{
+	color: #2097e3;
+	font-size: 26px;
+	padding-top: 25px;
+}
+
+.details p{
+	color: #f14742;
+	font-size: 20px;
+	padding-left: 25px;
+	padding-right: 25px;
+	text-align: center;
+	line-height: 29px;
+}
+
+.main{
+	border: 0px solid black;
+	width:960px;
+	height:auto;
+	margin:auto;
+	overflow: hidden;
+	margin-top: 30px;
+
+}
+.left{
+	border: 0px solid black;
+	width:45px;
+	height:auto;
+	float:left;
+	background-color: #fff;
+	position: fixed;
+}
+.home{
+	border: 0px solid black;
+	width:32px;
+	height:auto;
+	margin-top:0;
+	background-color: #fff;
+		margin: auto;
+}
+
+.cinema{
+	border: 0px solid black;
+	width:32;
+	height:auto;
+
+	background-color: #fff;
+		margin: auto;
+			margin-top:20;
+}
+
+.link{
+	border: 0px solid black;
+	width:32;
+	height:auto;
+	
+	background-color: #fff;
+	margin: auto;
+	margin-top:20;
+}
+.middle{
+	background-color: #fff;
+	border: 0px solid black;
+	width:350px;
+	height:auto;
+	float:left;
+}
+.image{
+	border: 0px solid black;
+	width:170px;
+	height:200px;
+	margin:auto;
+	margin-top: 20px;
+}
+.details{
+	border: 0px solid black;
+	width:auto;
+	height:auto;
+	margin:auto;
+}
+.right{
+	border: 0px solid black;
+	width:610px;
+	height:477px;
+	background-color: #fff;
+	float:right;
+}
+
+.right h1{
+	color: #333;
+	font-size: 24px;
+	text-align: left;
+}
+.right p{
+	color: #333;
+	font-size: 20px;
+	padding-right: 25px;
+}
+
+.right ul{
+	list-style: circle;
+
+}
+
+.right ul li{
+	color: #09a0ff;
+	font-size: 20px;
+}
+
+.left img:hover{
+opacity: 0.5;
+}
